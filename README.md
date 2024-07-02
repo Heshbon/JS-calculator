@@ -35,10 +35,10 @@ Check out the live application [here](https://heshbon.github.io/JS-calculator/).
 ## Usage
 Use the calculator by clicking the buttons to perform arithmetic operations. The result will be displayed on the screen.
 
-HTML Structure
+## HTML Structure
 
 The HTML file contains the structure of the calculator:
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -72,11 +72,12 @@ The HTML file contains the structure of the calculator:
   </div>
 </body>
 </html>
+```
 
-CSS Styling
+## CSS Styling
 
 The CSS file contains the styles for the calculator:
-body {
+```body {
   margin: 0;
   display: flex;
   justify-content: center;
@@ -141,11 +142,11 @@ button:active {
 .operator-btn:active {
   background-color: hsl(35, 100%, 75%);
 }
-
-JavaScript Functionality
+```
+## JavaScript Functionality
 
 The JavaScript file contains the functionality for the calculator:
-// Calculator Program
+```// Calculator Program
 
 const display = document.getElementById("display");
 
@@ -164,7 +165,7 @@ function calculate() {
     display.value = "Error";
   }
 }
-
+```
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
