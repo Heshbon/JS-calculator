@@ -20,4 +20,4 @@ This is a simple calculator built with HTML, CSS, and JavaScript for learning pu
 
 ## License
 
-This project is licensed under the https://opensource.org/license/MIT - see the LICENSE file for details.# JS-calculator
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
