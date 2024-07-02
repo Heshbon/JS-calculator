@@ -18,7 +18,7 @@ This is a simple calculator built with HTML, CSS, and JavaScript for learning pu
 
 - Built by Hesbon Kipchirchir <[Heshbon](https://github.com/Heshbon)>
 
-## DEployed Calculator
+## Deployed Calculator
 
 Check out the live application [here](https://heshbon.github.io/JS-calculator/).
 
